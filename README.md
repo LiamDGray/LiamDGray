@@ -5,6 +5,9 @@ If you're early in your career: keep learning from everyone around you.
 It never stops.
 
 **Early sparks**
+My parents, of course -- both National Merit Scholars who met at Model U.N. at University of Kansas.
+Daisy, a sweet Labrador retriever. (Yes, we can learn a lot from animals.)
+The nice ladies who ran my Detskiy Sad near Timiryazev Agricultural Academy in Moscow.
 An unknown instructor at Lawrence Hall of Science who handed me Forth.
 A counselor at TIC Camp who taught me to write a shoot-'em-up.
 Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
@@ -13,10 +16,10 @@ Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
 GWU's Science & Engineering Apprenticeship Program — programming, Pascal, drafting, AutoCAD.
 Robert Harper and the CMU faculty — especially 15-212.
 
-**How software really works**
+**How software & electronics really work in practice**
 Leslie Chan, who taught me to find the memory scribbler.
 Mike Kongelf, who built the giant circular buffer.
-Nish Abrol, David Doan, and Chris Ryan on DMSS at Qualcomm.
+Jim Willkie, Nish Abrol, David Doan, and Chris Ryan on DMSS at Qualcomm.
 Earle Beason and Fadi El Ghussein at Wabtec.
 
 ---
