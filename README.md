@@ -14,7 +14,7 @@ Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
 
 **How to build things**
 GWU's Science & Engineering Apprenticeship Program — programming, Pascal, drafting, AutoCAD.
-Robert Harper and the CMU faculty — especially 15-212.
+The CMU faculty, especially Robert Harper.
 
 **How software & electronics really work in practice**
 Leslie Chan, who taught me to find the memory scribbler.
