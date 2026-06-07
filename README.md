@@ -47,4 +47,4 @@ mentorship of teens and young adults — programming, systems thinking, and
 the craft of building things that work.
 
 I accept payment through the Arizona ESA (Empowerment Scholarship Account)
-program; I'm listed on the marketplace under **FunnelHarbor LLC**.
+program; I'm listed on the marketplace (ClassWallet) under **FunnelHarbor LLC**.
