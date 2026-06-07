@@ -7,7 +7,7 @@ It never stops.
 **Early sparks**
 My parents, of course, National Merit Scholars from Kansas.
 Daisy, a sweet Labrador retriever. (Yes, we can learn a lot from animals.)
-The nice ladies who ran my Detskiy Sad near Timiryazev Agricultural Academy in Moscow.
+The nice ladies who ran my Детский сад возле Тимирязевской сельскохозяйственной академии в Москве.
 An unknown instructor at Lawrence Hall of Science who handed me Forth.
 A counselor at TIC Camp who taught me to write a shoot-'em-up.
 Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
