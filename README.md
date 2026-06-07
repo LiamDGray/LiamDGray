@@ -1,0 +1,47 @@
+## 🙏 Teachers & Mentors
+
+I've been lucky to learn from remarkable people my whole life.
+If you're early in your career: keep learning from everyone around you.
+It never stops.
+
+**Early sparks**
+An unknown instructor at Lawrence Hall of Science who handed me Forth.
+A counselor at TIC Camp who taught me to write a shoot-'em-up.
+Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
+
+**How to build things**
+GWU's Science & Engineering Apprenticeship Program — programming, Pascal, drafting, AutoCAD.
+Robert Harper and the CMU faculty — especially 15-212.
+
+**How software really works**
+Leslie Chan, who taught me to find the memory scribbler.
+Mike Kongelf, who built the giant circular buffer.
+Nish Abrol, David Doan, and Chris Ryan on DMSS at Qualcomm.
+Earle Beason and Fadi El Ghussein at Wabtec.
+
+---
+
+## 🛠️ What I'm Doing Now
+
+I'm an engineer who likes improving my own tools and then using them heavily —
+sometimes past the point of good sense. Dogfooding is a verb around here.
+
+Right now that means using [Hermes Agent](https://github.com/NousResearch/hermes-agent)
+to extend itself — contributing features, fixing bugs, and building tooling
+that makes the agent better at improving itself. The loop is tight and deeply
+satisfying.
+
+I enjoy helping people automate their work, or teaching them how. There's
+a particular kind of delight in watching someone realize a task they've done
+manually for years can be reduced to a single command.
+
+---
+
+## 🧑‍🏫 Mentorship
+
+I hold an Arizona Level 1 IVP Fingerprint Clearance Card and am available for
+mentorship of teens and young adults — programming, systems thinking, and
+the craft of building things that work.
+
+I accept payment through the Arizona ESA (Empowerment Scholarship Account)
+program; I'm listed on the marketplace under **FunnelHarbor LLC**.
