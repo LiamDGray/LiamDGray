@@ -46,5 +46,6 @@ I hold an Arizona Level 1 IVP Fingerprint Clearance Card and am available for
 mentorship of teens and young adults — programming, systems thinking, and
 the craft of building things that work.
 
-I accept payment through the Arizona ESA (Empowerment Scholarship Account)
-program; I'm listed on the marketplace (ClassWallet) under **FunnelHarbor LLC**.
+For a K-12 student in Arizona, I can accept payment through the Arizona ESA 
+(Empowerment Scholarship Account) program; I'm listed on the marketplace (ClassWallet) 
+under **FunnelHarbor LLC**.
