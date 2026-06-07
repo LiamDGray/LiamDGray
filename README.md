@@ -5,7 +5,7 @@ If you're early in your career: keep learning from everyone around you.
 It never stops.
 
 **Early sparks**
-My parents, of course -- both National Merit Scholars who met at Model U.N. at University of Kansas.
+My parents, of course, National Merit Scholars from Kansas.
 Daisy, a sweet Labrador retriever. (Yes, we can learn a lot from animals.)
 The nice ladies who ran my Detskiy Sad near Timiryazev Agricultural Academy in Moscow.
 An unknown instructor at Lawrence Hall of Science who handed me Forth.
