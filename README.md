@@ -1,3 +1,42 @@
+```text
+
+  ██████  ██ ███████ ███    ██  ██████  ███████ ██ ███    ██ ████████ ██████   █████  ███████ ████████ ██████  ██    ██ ██    ██ ███████
+  ██   ██ ██ ██      ████   ██ ██       ██      ██ ████   ██    ██    ██   ██ ██   ██ ██         ██    ██   ██ ██    ██ ██    ██ ██
+  ██   ██ ██ █████   ██ ██  ██ ██   ███ █████   ██ ██ ██  ██    ██    ██   ██ ███████ ███████    ██    ██████  ██    ██ ██    ██ █████
+  ██   ██ ██ ██      ██  ██ ██ ██    ██ ██      ██ ██  ██ ██    ██    ██   ██ ██   ██      ██    ██    ██   ██ ██    ██  ██  ██  ██
+  ██████  ██ ███████ ██   ████  ██████  ███████ ██ ██   ████    ██    ██████  ██   ██ ███████    ██    ██   ██  ██████    ████   ███████
+
+```
+
+# Liam D. Gray
+
+**Evidence Infrastructure for the Real World** → [liamdgray.com](https://liamdgray.com)
+
+I design infrastructure that extracts something fragile or noisy from the world,
+validates it cryptographically or structurally, and surfaces it as an auditable artifact.
+
+**Extract → Validate → Surface**
+
+Data Pipelines · Blockchain / ZK · AI / LLM · Automation · Computer Vision · Signal Processing
+
+---
+
+## 🛠️ What I'm Doing Now
+
+I'm an engineer who likes improving my own tools and then using them heavily —
+sometimes past the point of good sense. Dogfooding is a verb around here.
+
+One thing I'm enjoying lately is using
+[Hermes Agent](https://github.com/NousResearch/hermes-agent)
+to extend itself — building tooling that makes the agent better at improving
+itself. The loop is tight and deeply satisfying.
+
+I enjoy helping people automate their work, or teaching them how. There's
+a particular kind of delight in watching someone realize a task they've done
+manually for years can be reduced to a single command.
+
+---
+
 ## 🙏 Teachers & Mentors
 
 I've been lucky to learn from remarkable people my whole life.
@@ -24,28 +63,12 @@ Earle Beason and Fadi El Ghussein at Wabtec.
 
 ---
 
-## 🛠️ What I'm Doing Now
-
-I'm an engineer who likes improving my own tools and then using them heavily —
-sometimes past the point of good sense. Dogfooding is a verb around here.
-
-One thing I'm enjoying lately is using 
-[Hermes Agent](https://github.com/NousResearch/hermes-agent)
-to extend itself — building tooling that makes the agent better at improving
-itself. The loop is tight and deeply satisfying.
-
-I enjoy helping people automate their work, or teaching them how. There's
-a particular kind of delight in watching someone realize a task they've done
-manually for years can be reduced to a single command.
-
----
-
 ## 🧑‍🏫 Mentorship
 
 I hold an Arizona Level 1 IVP Fingerprint Clearance Card and am available for
 mentorship of teens and young adults — programming, systems thinking, and
 the craft of building things that work.
 
-For a K-12 student in Arizona, I can accept payment through the Arizona ESA 
-(Empowerment Scholarship Account) program; I'm listed on the marketplace (ClassWallet) 
+For a K-12 student in Arizona, I can accept payment through the Arizona ESA
+(Empowerment Scholarship Account) program; I'm listed on the marketplace (ClassWallet)
 under **FunnelHarbor LLC**.
