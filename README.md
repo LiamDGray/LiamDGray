@@ -29,10 +29,10 @@ Earle Beason and Fadi El Ghussein at Wabtec.
 I'm an engineer who likes improving my own tools and then using them heavily —
 sometimes past the point of good sense. Dogfooding is a verb around here.
 
-Right now that means using [Hermes Agent](https://github.com/NousResearch/hermes-agent)
-to extend itself — contributing features, fixing bugs, and building tooling
-that makes the agent better at improving itself. The loop is tight and deeply
-satisfying.
+One thing I'm enjoying lately is using 
+[Hermes Agent](https://github.com/NousResearch/hermes-agent)
+to extend itself — building tooling that makes the agent better at improving
+itself. The loop is tight and deeply satisfying.
 
 I enjoy helping people automate their work, or teaching them how. There's
 a particular kind of delight in watching someone realize a task they've done
