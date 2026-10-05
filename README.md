@@ -12,16 +12,16 @@ I engineer deterministic infrastructure for autonomous AI in high-liability envi
 
 **Extract → Validate → Surface**
 
-High-Assurance Model Context Protocol (MCP) · Zero-Copy Rust · Formal Verification (Lean 4, TLA+, Z3) · Forensic Audit Ledgers · Resilient Ingestion
+High-Assurance Model Context Protocol (MCP) · High-Performance Rust · Hardened Safety Invariants · Forensic Audit Ledgers · Resilient Ingestion
 
 ---
 
 ## 🏛️ Featured Architectures & Core Systems
 
-- **[medplum-mcp](https://github.com/LiamDGray/medplum-mcp)** — *High-Assurance Model Context Protocol (MCP 2.3+) Server for HL7 FHIR Healthcare*
-  - Dual-stack Python reference server and high-throughput zero-copy Rust Cargo workspace with hardware NIC kTLS offload and `sendfile(2)`/`splice(2)` streaming.
+- **medplum-mcp** — *High-Assurance Model Context Protocol (MCP 2.3+) Server for HL7 FHIR Healthcare*
+  - Dual-stack Python reference server and high-throughput Rust Cargo workspace with Linux pipe zero-copy `splice(2)` IPC and Axum SSE/HTTP streaming.
   - Compile-time affine typestates and runtime non-bypassable safety gates restricting autonomous AI actions strictly to draft states (zero unauthorized commitments).
-  - Tri-layer formal safety verification in **Lean 4**, **TLA+**, and **Microsoft Z3 SMT**.
+  - Deterministic safety gates with Unicode NFKC homoglyph evasion defense and automated FSM reachability invariant verification.
   - 3-tier SIMD token distillation (>89–95% context reduction) and HMAC-SHA256 unbroken hash-chained audit flight recorder.
 
 - **Verus** — *Hallucination-Free Exhaustive Document Audit Engine*
@@ -37,12 +37,12 @@ High-Assurance Model Context Protocol (MCP) · Zero-Copy Rust · Formal Verifica
 ## 💼 High-Value Practice Areas
 
 1. **High-Assurance Model Context Protocol (MCP) Infrastructure**:
-   - Custom dual-stack (Python / Zero-Copy Rust) MCP 2.3+ servers connecting frontier models (Claude Desktop, Claude Code, Cursor, Windsurf) to regulated systems of record (EHRs, ERPs, clinical registries, financial ledgers).
-   - Mathematical safety barriers preventing unintended side-effects and unauthorized state mutations.
+   - Custom dual-stack (Python / High-Performance Rust) MCP 2.3+ servers connecting frontier models (Claude Desktop, Claude Code, Cursor, Windsurf) to regulated systems of record (EHRs, ERPs, clinical registries, financial ledgers).
+   - Deterministic safety barriers preventing unintended side-effects and unauthorized state mutations.
 2. **Exhaustive Document Audits & Forensic Knowledge Systems**:
    - Source-grounded diligence, dose-and-effect mappings, and regulatory compliance verification where missed clauses create legal or operational exposure.
 3. **High-Concurrency Systems & Embedded Telemetry**:
-   - Low-latency systems in Rust, C++, and Linux kernel zero-copy networking; asynchronous pipeline architecture and cryptographic auditability.
+   - Low-latency systems in Rust, C++, and high-throughput Linux pipe/socket IPC; asynchronous pipeline architecture and cryptographic auditability.
 
 ---
 
@@ -51,7 +51,7 @@ High-Assurance Model Context Protocol (MCP) · Zero-Copy Rust · Formal Verifica
 - **Carnegie Mellon University**: B.S. Electrical & Computer Engineering (ECE).
 - **Qualcomm (#2708)**: Mobile Station Software (DMSS) — high-reliability embedded wireless communications.
 - **Wabtec**: Locomotive cab electronic instrumentation (fuel gauges, temperature monitoring, cab radio systems, and telemetry).
-- **Core Philosophy**: Systems engineering applied to verifiable truth. When correctness is non-negotiable, mathematical proof beats heuristic vibes.
+- **Core Philosophy**: Systems engineering applied to verifiable truth. When correctness is non-negotiable, deterministic engineering beats heuristic vibes.
 
 ---
 
