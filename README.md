@@ -1,4 +1,3 @@
-
 ```
 +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 |E|V|I|D|E|N|C|E| |I|N|F|R|A|S|T|R|U|C|T|U|R|E|
@@ -7,65 +6,57 @@
 
 # Liam D. Gray
 
-**Evidence Infrastructure for the Real World** → [liamdgray.com](https://liamdgray.com)
+**Evidence Infrastructure & High-Assurance AI Systems** → [liamdgray.com](https://liamdgray.com)
 
-I design infrastructure that extracts something fragile or noisy from the world,
-validates it cryptographically or structurally, and surfaces it as an auditable artifact.
+I engineer deterministic infrastructure for autonomous AI in high-liability environments: extracting fragile signals from the real world, validating them mathematically and cryptographically, and surfacing them as auditable artifacts.
 
 **Extract → Validate → Surface**
 
-Data Pipelines · Blockchain / ZK · AI / LLM · Automation · Computer Vision · Signal Processing
+High-Assurance Model Context Protocol (MCP) · Zero-Copy Rust · Formal Verification (Lean 4, TLA+, Z3) · Forensic Audit Ledgers · Resilient Ingestion
 
 ---
 
-## 🛠️ What I'm Doing Now
+## 🏛️ Featured Architectures & Core Systems
 
-I'm an engineer who likes improving my own tools and then using them heavily —
-sometimes past the point of good sense. Dogfooding is a verb around here.
+- **[medplum-mcp](https://github.com/LiamDGray/medplum-mcp)** — *High-Assurance Model Context Protocol (MCP 2.3+) Server for HL7 FHIR Healthcare*
+  - Dual-stack Python reference server and high-throughput zero-copy Rust Cargo workspace with hardware NIC kTLS offload and `sendfile(2)`/`splice(2)` streaming.
+  - Compile-time affine typestates and runtime non-bypassable safety gates restricting autonomous AI actions strictly to draft states (zero unauthorized commitments).
+  - Tri-layer formal safety verification in **Lean 4**, **TLA+**, and **Microsoft Z3 SMT**.
+  - 3-tier SIMD token distillation (>89–95% context reduction) and HMAC-SHA256 unbroken hash-chained audit flight recorder.
 
-One thing I'm enjoying lately is using
-[Hermes Agent](https://github.com/NousResearch/hermes-agent)
-to extend itself — building tooling that makes the agent better at improving
-itself. The loop is tight and deeply satisfying.
+- **Verus** — *Hallucination-Free Exhaustive Document Audit Engine*
+  - Eliminates probabilistic embedding-similarity RAG in favor of exhaustive λ-RLM paragraph analysis for high-liability legal, clinical, and financial diligence.
+  - Every claim and conclusion is structurally bound to its primary textual source; hallucination is rendered an architectural impossibility.
 
-I enjoy helping people automate their work, or teaching them how. There's
-a particular kind of delight in watching someone realize a task they've done
-manually for years can be reduced to a single command.
-
----
-
-## 🙏 Teachers & Mentors
-
-I've been lucky to learn from remarkable people my whole life.
-If you're early in your career: keep learning from everyone around you.
-It never stops.
-
-**Early sparks**
-My parents, of course, National Merit Scholars from Kansas.
-Daisy, a sweet Labrador retriever. (Yes, we can learn a lot from animals.)
-The nice ladies who ran my Детский сад возле Тимирязевской сельскохозяйственной академии в Москве.
-An unknown instructor at Lawrence Hall of Science who handed me Forth.
-A counselor at TIC Camp who taught me to write a shoot-'em-up.
-Karen J. Rosenbaum, who showed me Papert's method of guiding student learning.
-
-**How to build things**
-GWU's Science & Engineering Apprenticeship Program — programming, Pascal, drafting, AutoCAD.
-The CMU faculty, especially Robert Harper.
-
-**How software & electronics really work in practice**
-Leslie Chan, who taught me to find the memory scribbler.
-Mike Kongelf, who built the giant circular buffer.
-Jim Willkie, Nish Abrol, David Doan, and Chris Ryan on DMSS at Qualcomm.
-Earle Beason and Fadi El Ghussein at Wabtec.
+- **ScraperForge** — *Autonomous Scraper Synthesis Compiler & Resilient Runtime*
+  - Intelligent extraction forge that reverse-engineers target web interfaces, deduces extraction strategies (API hooks, hydration states, DOM traversal), and generates declarative recipe contracts.
+  - Integrates semantic dry-run verification and diff-guided LLM self-healing to repair brittle selectors and compile hardened, production-ready collectors.
 
 ---
 
-## 🧑‍🏫 Mentorship
+## 💼 High-Value Practice Areas
 
-I hold an Arizona Level 1 IVP Fingerprint Clearance Card and am available for
-mentorship of teens and young adults — programming, systems thinking, and
-the craft of building things that work.
+1. **High-Assurance Model Context Protocol (MCP) Infrastructure**:
+   - Custom dual-stack (Python / Zero-Copy Rust) MCP 2.3+ servers connecting frontier models (Claude Desktop, Claude Code, Cursor, Windsurf) to regulated systems of record (EHRs, ERPs, clinical registries, financial ledgers).
+   - Mathematical safety barriers preventing unintended side-effects and unauthorized state mutations.
+2. **Exhaustive Document Audits & Forensic Knowledge Systems**:
+   - Source-grounded diligence, dose-and-effect mappings, and regulatory compliance verification where missed clauses create legal or operational exposure.
+3. **High-Concurrency Systems & Embedded Telemetry**:
+   - Low-latency systems in Rust, C++, and Linux kernel zero-copy networking; asynchronous pipeline architecture and cryptographic auditability.
 
-For a K-12 student in Arizona, I can accept payment through the Arizona ESA
-(Empowerment Scholarship Account) program; I'm listed on the marketplace (ClassWallet)
-under **FunnelHarbor LLC**.
+---
+
+## 🎓 Background & Lineage
+
+- **Carnegie Mellon University**: B.S. Electrical & Computer Engineering (ECE).
+- **Qualcomm (#2708)**: Mobile Station Software (DMSS) — high-reliability embedded wireless communications.
+- **Wabtec**: Locomotive cab electronic instrumentation (fuel gauges, temperature monitoring, cab radio systems, and telemetry).
+- **Core Philosophy**: Systems engineering applied to verifiable truth. When correctness is non-negotiable, mathematical proof beats heuristic vibes.
+
+---
+
+<p align="center">
+  <a href="https://liamdgray.com">Website</a> •
+  <a href="https://linkedin.com/in/liamdgray">LinkedIn</a> •
+  <a href="https://github.com/LiamDGray">GitHub</a>
+</p>
